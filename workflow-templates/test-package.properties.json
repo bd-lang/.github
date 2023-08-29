@@ -1,0 +1,11 @@
+{
+    "name": "Package testing workflow (bd-lang)",
+    "description": "A simple package testing workflow used in the bd-lang org",
+    "iconName": "bd",
+    "categories": [
+        "BD"
+    ],
+    "filePatterns": [
+        "^pubspec.yaml$"
+    ]
+}
