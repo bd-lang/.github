@@ -1,0 +1,8 @@
+{
+    "name": "Package publishing workflow (bd-lang)",
+    "description": "A workflow to automate publishing pub packages",
+    "iconName": "bd",
+    "categories": [
+        "bd"
+    ]
+}
