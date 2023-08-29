@@ -1,0 +1,15 @@
+# Copyright (c) 2023, the BD project authors.  Please see the AUTHORS file
+# for details. All rights reserved. Use of this source code is governed by a
+# BSD-style license that can be found in the LICENSE file.
+
+allow_config_override: false
+auto_approval_accounts:
+  - dependabot[bot]
+  - dependabot
+approving_reviews: 2
+approval_group: bd-team
+run_ci: true
+
+support_no_review_revert: true
+required_checkruns_on_revert:
+  - cla/google
